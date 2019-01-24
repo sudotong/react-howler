@@ -1,5 +1,5 @@
 {
-  "name": "react-howler",
+  "name": "react-howler-ff",
   "version": "3.7.4",
   "description": "A React.js wrapper for howler.js (audio player)",
   "main": "lib/index.js",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thangngoc89/react-howler.git"
+    "url": "git+https://github.com/sudotong/react-howler.git"
   },
   "keywords": [
     "react-component",
@@ -39,11 +39,11 @@
   "author": "Khoa Nguyen <hi@khoanguyen.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thangngoc89/react-howler/issues"
+    "url": "https://github.com/sudotong/react-howler/issues"
   },
-  "homepage": "https://github.com/thangngoc89/react-howler#readme",
+  "homepage": "https://github.com/sudotong/react-howler#readme",
   "dependencies": {
-    "howler": "^2.1.1",
+    "howler-ff": "^2.1.1",
     "prop-types": "^15.5.6"
   },
   "devDependencies": {
